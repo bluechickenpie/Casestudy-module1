@@ -1,1 +1,57 @@
-câu 1:
+câu 1:Python ra đời vào năm nào?
+A. 1999
+B. 1995
+C. 1991
+D. 1945
+Câu 2:Ai là cha đẻ của Python?
+A. Guido Van Rossum
+B. Giorno Giovanna
+C. Leonardo Da vinci
+D. Julius Robert Oppenheimer
+Câu 3:Python là gì?
+A. Bom nguyên tử
+B. Ngôn ngữ lập trình máy tính
+C. Chim cánh cụt
+D. A.I
+Câu 4:Trong Python, cho đoạn chương trình sau:
+a=b=1
+c,d=1,2
+print(a+b+c+d)
+Kết quả trên màn hình là:
+A. 3
+B. 4
+C. 5
+D. 6
+Câu 5:Trong Python, để đưa kết quả ra màn hình ta sử dụng thủ tục nào?
+A. printf(<Danh sách kết quả ra>)
+B. print(<Danh sách kết quả ra>)
+C. Input(<Danh sách kết quả ra>)
+D. Printing(<Danh sách kết quả ra>)
+Câu 6:Trong Python, để nhập số thực cho biến n, câu lệnh nào sau đây đúng?
+A. n=input(‘Nhập 1 số thực:’)
+B. n=int(input(‘Nhập 1 số thực:’))
+C. n=float(input(‘Nhập 1 số thực:’))
+D. float(input(‘Nhập số thực n:’))
+Câu 7: Trong Python, câu lệnh sau cho kết quả trên màn hình là gì?
+if 1<2 and 1>3: print(‘false’)
+else: print(‘true’)
+A. TRUE
+B. true
+C. FALSE
+D. false
+Câu 8:Trong Python, cấu trúc rẽ nhánh dạng thiếu là:
+A. if <điều kiện> : <câu lệnh >
+B. IF <điều kiện> : <câu lệnh >
+C. if <điều kiện> then <câu lệnh >;
+D. IF <điều kiện> THEN <câu lệnh >;
+Câu 9: Trong Python, để gán cho biến x giá trị là 1, câu lệnh nào sau đây đúng?
+A. 1=x
+B. x=1
+C. x:=1
+D. 1=:x
+Câu 10:Trong Python, so sánh bằng và khác được viết như thế nào ?
+A. == (bằng), != (khác)
+B. = (bằng), = !(khác)
+C. == (bằng), <>(khác)
+D. = (bằng), <>(khác)
+1"C". 2"A". 3"B". 4"C". 5"B". 6"C". 7"B". 8"A". 9"B". 10"A".
