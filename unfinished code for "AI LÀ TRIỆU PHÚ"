@@ -1,0 +1,59 @@
+print ("chào mừng các fen đến với chò trơi AI LÀ PHẠM NHẬT VƯỢNG!!!")
+print ("luật trò chơi như sau:")
+print ("+mới vào bạn sẽ có 0 điểm.")
+print ("+mỗi câu trl đúng sẽ cho bạn 1 điểm.")
+print ("+câu trả lời sai sẽ bị trừ 1 điểm, trả lời ko đúng yêu cầu sẽ ko có điểm.")
+print ("!!!chúc bạn may mắn!!!")
+
+score = 0
+print ("Câu 1: Python được phát hành vào năm nào? A. 1991, B. 1989, C. 2000, D. 1995")
+ans=input("xin mời bạn nhập vào câu trả lời:")
+print (ans)
+if (ans == "A"):
+    print ("Câu trả lời chính xác!")
+    score = score + 1
+elif (ans == "a"):
+    print ("viết hoa đi rùi tui tính điểm cho nha :3")
+    score = score
+else:
+    print ("câu trả lời sai")
+    score = score - 1
+    
+    
+print ("Câu 2: Ai là người tạo ra Python? A. Guido van Rossum, B. Dwayne Johnson, C. Doctor Strange, D. Ma Dongk Seok:")
+ans=input("xin mời bạn nhập câu trả lời:")
+print (ans)
+if (ans == "A"):
+    print ("Đù mé anh này Nảo to @_@")
+    score = score + 1
+elif (ans == "a"):
+    print ("viết hoa đi rùi tui tính điểm cho nha :3")
+    score = score
+else:
+    print ("Anh này hài này :))))))")
+    score = score - 1
+    
+    
+print ("Câu 3: Câu lệnh nào dùng để hiển thị dữ liệu ra màn hình trong Python? A. print(), B. cout<<, C. System.out.println(), D. echo:")
+ans=input("xin mời bạn nhập vào câu trả lời:")
+print (ans)
+if (ans == "A"):
+    print ("đúng gòi nha bạn ^^")
+    score = score + 1
+elif (ans == "a"):
+    print ("viết hoa đi rùi tui tính điểm cho nha :3")
+    score = score
+else:
+    print ("thử đi, sai r nha bẹn ;)")
+    score = score - 1
+    
+    
+print ("số điểm tổng kết của bạn là:")
+print (score)
+if (score == 3):
+    print ("khá đấy bạn hiền :D")
+elif (score == 2):
+    print ("cũng được đấy")
+elif (score <= 1):
+    print ("ko có chi phải nản hết! hãy cố gắng lần sau nhé fen!!! ^^")
+print ("!!cảm ơn các fen đã tham gia trò chơi!!!")
